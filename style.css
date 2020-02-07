@@ -51,4 +51,7 @@ col {
   .the-title {
       color: goldenrod;
       text-size-adjust: 20;
+      /*centrar el contenido de esta clase para que el video quede en el centro de la pantalla*/
   }
+
+  /*Sugerencia de estilo: Hacer que el scroll al utilizar el menu baje lentamente en lugar de bajar instantaneamente*/
